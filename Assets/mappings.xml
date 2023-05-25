@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ColorMappings>
+  <element color="#00FF00FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/grass.prefab" />
+  <element color="#FFFF00FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/sand.prefab" />
+  <element color="#888888FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/stone.prefab" />
+  <element color="#8C3200FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/dirt.prefab" />
+  <element color="#FF0000FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/redbrick.prefab" />
+  <element color="#501D00FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/PlankWall.prefab" />
+  <element color="#FF00C8FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/flower.prefab" />
+  <element color="#005A00FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/tallgrass.prefab" />
+  <element color="#371400FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/wood.prefab" />
+  <element color="#00A500FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/leaf.prefab" />
+  <element color="#FF8E00FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/JackOLatern.prefab" />
+  <element color="#585858FF" prefab="Assets/2D Map Creator/Prefabs/2D Tiles Prefabs/Brick.prefab" />
+</ColorMappings>
